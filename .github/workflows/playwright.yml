@@ -171,7 +171,7 @@ jobs:
           </head>
           <body>
             <h1>🧪 Allure Test Reports</h1>
-            <p>MultiBank (mb.io) Automation Framework</p>
+            <p>MultiBank Automation Framework</p>
             <div class="reports">
               <div class="report-card">
                 <div class="browser-icon">🌐</div>
@@ -184,10 +184,6 @@ jobs:
               <div class="report-card">
                 <div class="browser-icon">🧭</div>
                 <a href="webkit/">WebKit</a>
-              </div>
-              <div class="report-card">
-                <div class="browser-icon">📊</div>
-                <a href="all/">All Browsers</a>
               </div>
             </div>
             <p class="timestamp">Generated: $(date -u +"%Y-%m-%d %H:%M:%S UTC")</p>
