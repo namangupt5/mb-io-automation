@@ -153,7 +153,8 @@ jobs:
           echo "✅ Combined report generated"
 
           # Create index page
-          cat > gh-pages/index.html << 'EOF'
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          cat > gh-pages/index.html << EOF
           <!DOCTYPE html>
           <html>
           <head>
@@ -186,7 +187,7 @@ jobs:
                 <a href="webkit/">WebKit</a>
               </div>
             </div>
-            <p class="timestamp">Generated: $(date -u +"%Y-%m-%d %H:%M:%S UTC")</p>
+            <p class="timestamp">Generated: $TIMESTAMP</p>
           </body>
           </html>
           EOF
