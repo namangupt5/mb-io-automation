@@ -1,52 +1,52 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sat Feb 28 16:26:19 UTC 2026","Sat Feb 28 16:26:26 UTC 2026","6779","","","","","","Validate clicking Sign In redirects to login page","As a user of the MultiBank (mb.io) platform
+"passed","Sat Feb 28 16:31:08 UTC 2026","Sat Feb 28 16:31:13 UTC 2026","5296","","","","","","Validate marketing banners appear at page bottom","As a user of the MultiBank (mb.io) platform
+  I want to verify the content, marketing sections and feature descriptions
+  So that I can access promotional materials and information"
+"passed","Sat Feb 28 16:31:13 UTC 2026","Sat Feb 28 16:31:20 UTC 2026","7048","","","","","","Validate company page section headers and content","As a user of the MultiBank (mb.io) platform
+  I want to verify the content, marketing sections and feature descriptions
+  So that I can access promotional materials and information"
+"passed","Sat Feb 28 16:31:20 UTC 2026","Sat Feb 28 16:31:24 UTC 2026","4368","","","","","","Validate top navigation bar is visible","As a user of the MultiBank (mb.io) platform
   I want to verify the navigation menu and layout
   So that I can access all sections of the platform easily"
-"passed","Sat Feb 28 16:26:26 UTC 2026","Sat Feb 28 16:26:30 UTC 2026","4319","","","","","","Validate explore page displays trading pairs","As a user of the MultiBank (mb.io) platform
-  I want to verify the trading/market data functionality
-  So that I can view trading pairs and market information"
-"passed","Sat Feb 28 16:26:00 UTC 2026","Sat Feb 28 16:26:05 UTC 2026","5044","","","","","","Validate market data sections on home page","As a user of the MultiBank (mb.io) platform
+"passed","Sat Feb 28 16:31:08 UTC 2026","Sat Feb 28 16:31:13 UTC 2026","4579","","","","","","Validate market data sections on home page","As a user of the MultiBank (mb.io) platform
   I want to verify the content, marketing sections and feature descriptions
   So that I can access promotional materials and information"
-"passed","Sat Feb 28 16:26:11 UTC 2026","Sat Feb 28 16:26:15 UTC 2026","4157","","","","","","Validate top navigation bar is visible","As a user of the MultiBank (mb.io) platform
+"passed","Sat Feb 28 16:31:03 UTC 2026","Sat Feb 28 16:31:08 UTC 2026","5228","","","","","","Validate marketing content on home page","As a user of the MultiBank (mb.io) platform
+  I want to verify the content, marketing sections and feature descriptions
+  So that I can access promotional materials and information"
+"passed","Sat Feb 28 16:31:24 UTC 2026","Sat Feb 28 16:31:28 UTC 2026","4624","","","","","","Validate navigation menu options are displayed","As a user of the MultiBank (mb.io) platform
   I want to verify the navigation menu and layout
   So that I can access all sections of the platform easily"
-"passed","Sat Feb 28 16:26:05 UTC 2026","Sat Feb 28 16:26:11 UTC 2026","6086","","","","","","Validate company page section headers and content","As a user of the MultiBank (mb.io) platform
-  I want to verify the content, marketing sections and feature descriptions
-  So that I can access promotional materials and information"
-"passed","Sat Feb 28 16:25:54 UTC 2026","Sat Feb 28 16:26:00 UTC 2026","6134","","","","","","Validate marketing content on home page","As a user of the MultiBank (mb.io) platform
-  I want to verify the content, marketing sections and feature descriptions
-  So that I can access promotional materials and information"
-"passed","Sat Feb 28 16:26:30 UTC 2026","Sat Feb 28 16:26:35 UTC 2026","4363","","","","","","Validate trading pair data structure","As a user of the MultiBank (mb.io) platform
-  I want to verify the trading/market data functionality
-  So that I can view trading pairs and market information"
-"passed","Sat Feb 28 16:26:10 UTC 2026","Sat Feb 28 16:26:15 UTC 2026","5784","","","","","","Validate footer section and links","As a user of the MultiBank (mb.io) platform
-  I want to verify the content, marketing sections and feature descriptions
-  So that I can access promotional materials and information"
-"passed","Sat Feb 28 16:26:32 UTC 2026","Sat Feb 28 16:26:36 UTC 2026","3926","","","","","","Validate market data table headers","As a user of the MultiBank (mb.io) platform
-  I want to verify the trading/market data functionality
-  So that I can view trading pairs and market information"
-"passed","Sat Feb 28 16:26:20 UTC 2026","Sat Feb 28 16:26:27 UTC 2026","7797","","","","","","Validate layout consistency across page","As a user of the MultiBank (mb.io) platform
+"passed","Sat Feb 28 16:31:28 UTC 2026","Sat Feb 28 16:31:36 UTC 2026","7812","","","","","","Validate layout consistency across page","As a user of the MultiBank (mb.io) platform
   I want to verify the navigation menu and layout
   So that I can access all sections of the platform easily"
-"passed","Sat Feb 28 16:26:27 UTC 2026","Sat Feb 28 16:26:32 UTC 2026","4886","","","","","","Validate trading categories exist","As a user of the MultiBank (mb.io) platform
+"passed","Sat Feb 28 16:31:45 UTC 2026","Sat Feb 28 16:31:50 UTC 2026","4389","","","","","","Validate dynamic content rendering","As a user of the MultiBank (mb.io) platform
   I want to verify the trading/market data functionality
   So that I can view trading pairs and market information"
-"passed","Sat Feb 28 16:26:15 UTC 2026","Sat Feb 28 16:26:20 UTC 2026","4305","","","","","","Validate navigation menu options are displayed","As a user of the MultiBank (mb.io) platform
-  I want to verify the navigation menu and layout
-  So that I can access all sections of the platform easily"
-"passed","Sat Feb 28 16:26:05 UTC 2026","Sat Feb 28 16:26:10 UTC 2026","4390","","","","","","Validate company page visual components","As a user of the MultiBank (mb.io) platform
-  I want to verify the content, marketing sections and feature descriptions
-  So that I can access promotional materials and information"
-"passed","Sat Feb 28 16:26:15 UTC 2026","Sat Feb 28 16:26:19 UTC 2026","3711","","","","","","Validate navigation links have correct hrefs","As a user of the MultiBank (mb.io) platform
-  I want to verify the navigation menu and layout
-  So that I can access all sections of the platform easily"
-"passed","Sat Feb 28 16:26:35 UTC 2026","Sat Feb 28 16:26:39 UTC 2026","4530","","","","","","Validate dynamic content rendering","As a user of the MultiBank (mb.io) platform
+"passed","Sat Feb 28 16:31:36 UTC 2026","Sat Feb 28 16:31:41 UTC 2026","4732","","","","","","Validate trading categories exist","As a user of the MultiBank (mb.io) platform
   I want to verify the trading/market data functionality
   So that I can view trading pairs and market information"
-"passed","Sat Feb 28 16:25:54 UTC 2026","Sat Feb 28 16:26:00 UTC 2026","6013","","","","","","Validate Download the App link works","As a user of the MultiBank (mb.io) platform
+"passed","Sat Feb 28 16:31:03 UTC 2026","Sat Feb 28 16:31:08 UTC 2026","4955","","","","","","Validate Download the App link works","As a user of the MultiBank (mb.io) platform
   I want to verify the content, marketing sections and feature descriptions
   So that I can access promotional materials and information"
-"passed","Sat Feb 28 16:26:00 UTC 2026","Sat Feb 28 16:26:05 UTC 2026","5344","","","","","","Validate marketing banners appear at page bottom","As a user of the MultiBank (mb.io) platform
+"passed","Sat Feb 28 16:31:13 UTC 2026","Sat Feb 28 16:31:17 UTC 2026","4077","","","","","","Validate company page visual components","As a user of the MultiBank (mb.io) platform
   I want to verify the content, marketing sections and feature descriptions
   So that I can access promotional materials and information"
+"passed","Sat Feb 28 16:31:17 UTC 2026","Sat Feb 28 16:31:24 UTC 2026","6282","","","","","","Validate footer section and links","As a user of the MultiBank (mb.io) platform
+  I want to verify the content, marketing sections and feature descriptions
+  So that I can access promotional materials and information"
+"passed","Sat Feb 28 16:31:28 UTC 2026","Sat Feb 28 16:31:35 UTC 2026","7508","","","","","","Validate clicking Sign In redirects to login page","As a user of the MultiBank (mb.io) platform
+  I want to verify the navigation menu and layout
+  So that I can access all sections of the platform easily"
+"passed","Sat Feb 28 16:31:35 UTC 2026","Sat Feb 28 16:31:41 UTC 2026","5236","","","","","","Validate explore page displays trading pairs","As a user of the MultiBank (mb.io) platform
+  I want to verify the trading/market data functionality
+  So that I can view trading pairs and market information"
+"passed","Sat Feb 28 16:31:41 UTC 2026","Sat Feb 28 16:31:45 UTC 2026","4782","","","","","","Validate trading pair data structure","As a user of the MultiBank (mb.io) platform
+  I want to verify the trading/market data functionality
+  So that I can view trading pairs and market information"
+"passed","Sat Feb 28 16:31:41 UTC 2026","Sat Feb 28 16:31:46 UTC 2026","4699","","","","","","Validate market data table headers","As a user of the MultiBank (mb.io) platform
+  I want to verify the trading/market data functionality
+  So that I can view trading pairs and market information"
+"passed","Sat Feb 28 16:31:24 UTC 2026","Sat Feb 28 16:31:28 UTC 2026","3823","","","","","","Validate navigation links have correct hrefs","As a user of the MultiBank (mb.io) platform
+  I want to verify the navigation menu and layout
+  So that I can access all sections of the platform easily"
