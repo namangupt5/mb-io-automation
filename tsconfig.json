@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "commonjs",
+    "lib": ["ES2022", "DOM"],
+    "moduleResolution": "node",
+    "rootDir": ".",
+    "outDir": "./dist",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "baseUrl": ".",
+    "paths": {
+      "@pages/*": ["src/pages/*"],
+      "@utils/*": ["src/utils/*"],
+      "@config/*": ["src/config/*"],
+      "@hooks/*": ["src/hooks/*"],
+      "@test-data/*": ["src/test-data/*"]
+    }
+  },
+  "include": ["src/**/*.ts", "step-definitions/**/*.ts", "features/**/*.ts", "cucumber.js"],
+  "exclude": ["node_modules", "dist", "allure-results", "allure-report"]
+}

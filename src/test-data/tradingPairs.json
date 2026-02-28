@@ -1,0 +1,42 @@
+{
+    "tradingCategories": [
+        "Hot",
+        "Gainers",
+        "Losers"
+    ],
+    "expectedTableHeaders": [
+        "Symbol",
+        "Name",
+        "Price",
+        "Change"
+    ],
+    "sampleTradingPairs": [
+        {
+            "symbol": "MBG",
+            "category": "Hot"
+        },
+        {
+            "symbol": "BTC",
+            "category": "Hot"
+        },
+        {
+            "symbol": "ETH",
+            "category": "Hot"
+        },
+        {
+            "symbol": "SOL",
+            "category": "Hot"
+        },
+        {
+            "symbol": "XRP",
+            "category": "Hot"
+        }
+    ],
+    "minimumPairsDisplayed": 1,
+    "explorePageUrl": "/en/explore",
+    "spotSection": {
+        "shouldBeVisible": true,
+        "minimumPairs": 1
+    },
+    "dynamicContentTimeout": 15000
+}

@@ -1,0 +1,12 @@
+node_modules/
+dist/
+allure-results/
+allure-report/
+reports/
+test-results/
+storage/auth.json
+.env
+*.log
+.DS_Store
+playwright-report/
+blob-report/

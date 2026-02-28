@@ -1,0 +1,52 @@
+{
+    "downloadSection": {
+        "downloadAppLink": {
+            "shouldExist": true,
+            "hrefContains": "go.link",
+            "label": "Download the app"
+        }
+    },
+    "marketingBanners": {
+        "minimumBannersAtBottom": 1
+    },
+    "marketingContent": {
+        "heroHeading": "crypto",
+        "heroSubtext": "platform",
+        "featureHeadings": [
+            "fastest",
+            "credit card",
+            "portfolio",
+            "trade"
+        ]
+    },
+    "homePage": {
+        "expectedSectionHeaders": [
+            "crypto",
+            "trade",
+            "portfolio",
+            "fastest"
+        ],
+        "expectedParagraphContent": [
+            "platform",
+            "trade",
+            "secure"
+        ],
+        "visualComponents": {
+            "minimumImages": 1
+        }
+    },
+    "footer": {
+        "shouldBeVisible": true,
+        "expectedLinks": [
+            "Terms",
+            "Privacy",
+            "Contact"
+        ],
+        "hasPaymentIcons": true
+    },
+    "marketData": {
+        "topGainersVisible": true,
+        "trendingVisible": true,
+        "minimumTickers": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "menuItems": [
+        {
+            "name": "Home",
+            "expectedUrl": "mb.io",
+            "shouldBeVisible": true
+        },
+        {
+            "name": "Sign in",
+            "expectedUrl": "login",
+            "shouldBeVisible": true
+        },
+        {
+            "name": "Sign up",
+            "expectedUrl": "register",
+            "shouldBeVisible": true
+        }
+    ],
+    "logoShouldBeVisible": true,
+    "layoutValidation": {
+        "navBarShouldBeVisible": true,
+        "footerShouldBeVisible": true,
+        "heroShouldBeVisible": true,
+        "mainContentShouldBeVisible": true
+    },
+    "urlValidation": {
+        "baseUrl": "https://mb.io/",
+        "signInUrl": "trade.mb.io/login",
+        "signUpUrl": "trade.mb.io/register"
+    }
+}
