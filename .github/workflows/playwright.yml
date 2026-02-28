@@ -36,25 +36,13 @@ jobs:
       - name: Install Playwright browsers
         run: npx playwright install --with-deps ${{ matrix.browser }}
 
-      - name: Create storage directory
-        run: mkdir -p storage
-
-      - name: Run global setup (login bypass)
-        run: npx ts-node src/config/global-setup.ts
-        env:
-          BASE_URL: https://trade.multibank.io/
-          LOGIN_EMAIL: ${{ secrets.LOGIN_EMAIL }}
-          LOGIN_PASSWORD: ${{ secrets.LOGIN_PASSWORD }}
-          HEADLESS: 'true'
-
       - name: Run tests on ${{ matrix.browser }}
         run: |
           BROWSER=${{ matrix.browser }} npm test
         env:
-          BASE_URL: https://trade.multibank.io/
+          BASE_URL: https://mb.io/
           BROWSER: ${{ matrix.browser }}
           HEADLESS: 'true'
-          STORAGE_STATE_PATH: storage/auth.json
           SCREENSHOT_EACH_STEP: 'true'
           TRACE_ON_FAILURE: 'true'
 
